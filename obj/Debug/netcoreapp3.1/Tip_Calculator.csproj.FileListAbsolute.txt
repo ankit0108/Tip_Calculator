@@ -1,0 +1,15 @@
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.exe
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.deps.json
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.runtimeconfig.json
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.dll
+C:\Users\ankit\source\repos\Tip_Calculator\bin\Debug\netcoreapp3.1\Tip_Calculator.pdb
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.csprojAssemblyReference.cache
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.dll
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.pdb
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.genruntimeconfig.cache
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.Form1.resources
+C:\Users\ankit\source\repos\Tip_Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.csproj.GenerateResource.cache
